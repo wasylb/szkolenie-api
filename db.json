@@ -1,0 +1,22 @@
+{
+    "posty": [
+        {
+            "id": 1,
+            "autor": "Bartosz Wasilew",
+            "tytul": "Mój nowy makijaz kochani",
+            "opis": "Dzisiaj postanowiłem przetestować nową szczotkę od Maybelline New York. Jest świetna, daje mi to wiele satysfakcji."
+        },
+        {
+            "id": 2,
+            "autor": "Halina Krzak",
+            "tytul": "Smalec topi się wyśmienicie!",
+            "opis": "Jest wystarczająco tłusty - dodatkowo tak smaczny, ze az spadłam z krzesła."
+        },
+        {
+            "id": 3,
+            "autor": "dr. hab Zbigniew Cosinus",
+            "tytul": "Javascript to kpina - tylko tablica i kreda",
+            "opis": "W moich czasach to było nie do pomyślenia, zeby strony internetowe miały jakiekolwiek znaczenie - dla mnie do tej pory nie znaczą. Mam zamkniętą na nowości głowę, w dodatku pustą i cytuję artykuły z 1996 jako prawdę objawioną."
+        }
+    ]
+}
